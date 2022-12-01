@@ -1,0 +1,13 @@
+<head>
+#title#
+</head>
+<body>
+<header>#message#</header>
+#content1#
+#content2#
+<ul>
+    <li>#li1#</li>
+    <li>#li2#</li>
+    <li>#li3#</li>
+</ul>
+</body>
